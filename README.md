@@ -3,10 +3,10 @@ java python c++ blog repository
 
 #  Python and Scala/Java and C++, used together
 
-This page has re-created to show some my works (blog-style).
+This page has been re-created to show some my works (blog-style).
 
 Most (all) the code source  has moved to another Git Private directory for profesionnal reasons.
-As high level coding involves a lot of work and high quality research work is quite demanding,
+As high quality coding involves a lot of work and high quality research work is quite demanding,
 it's difficult to release all the code .
 
 You can't imagine that Google releases all his search engine code....
