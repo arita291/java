@@ -13,6 +13,10 @@ You can't imagine that Google releases all his search engine code....
 But they sometimes release some utilities code to make a standard used by many people.
 
 
+Some research documents are available here:
+
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2837664
+
 
 
 If you have interest in one of the project below and some code sources,
